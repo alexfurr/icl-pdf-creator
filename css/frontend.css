@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+
+.iclpdf-wrap {
+    box-sizing:     border-box;      
+    margin:         30px 0;
+    border:         1px solid #09f;
+    border-radius:  3px;
+    padding:        20px;
+}
+
+
+
+
+
+
+.iclpdf-frontend-feedback {
+    padding:20px; 
+    box-sizing:border-box; 
+}
+
+
+
+
+
+
+#make_pdf {
+    display: inline-block;
+    font-size: 18px;
+    color: #f1f1f1;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 0;
+    background: #09f;
+    border-radius: 3px;
+    margin-top: 10px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+#pdf_request_spinner {
+    display: inline-block;
+    width:  40px;
+    height:  40px;
+}
+
+
+#previewDownload {
+    margin: 30px 0;
+}
+
+
+.iclpdf-link {
+    font-weight: 600;
+    border: 2px solid #ececec;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
