@@ -2,9 +2,10 @@
 /* 
 Plugin Name: 	ICL PDF Maker
 Description: 	 
-Version: 		0.1.0
+Version: 		0.1.1
 License: 		GPL2
 Text Domain: 	ipdf
+GitHub Plugin URI: https://github.com/ImperialCollegeLondon/icl-pdf-creator
 */
 
 if ( ! defined( 'ABSPATH' ) ) { // Prevent direct access
